@@ -10,9 +10,8 @@ class TwoSum {
                 }
             }
         }
-
+        
         return new int[] { -1, -1 };
-
     }
 
     public static int[] usingHashMap(int[] arr, int target) {
